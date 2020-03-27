@@ -8,6 +8,8 @@ Core Features are:
 - Convert video to HLS and dash.
 - Upload to Clouds that support Amazon S3 protocl.
 - Secure-Link for video
+- Using Celery for convert video in background
+- Using FastApi, so it's FAST!!
 
 
 # THIS REPOSITY WILL DEVELOP ASAP
