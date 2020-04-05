@@ -10,6 +10,7 @@ Core Features are:
 - Secure-Link for video
 - Using Celery for convert video in background
 - Using FastApi, so it's FAST!!
+- Using S3 Storage [AWS S3, MINIO , ...]
 
 
 # THIS REPOSITY WILL DEVELOP ASAP
