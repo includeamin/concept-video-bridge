@@ -11,6 +11,7 @@ Core Features are:
 - Using Celery for convert video in background
 - Using FastApi, so it's FAST!!
 - Using S3 Storage [AWS S3, MINIO , ...]
+- Using Rust for streaming from Storage.
 
 
 # THIS REPOSITY WILL DEVELOP ASAP
