@@ -8,10 +8,10 @@ Core Features are:
 - Convert video to HLS and dash.
 - Upload to Clouds that support Amazon S3 protocl.
 - Secure-Link for video
-- Using Celery for convert video in background
-- Using FastApi, so it's FAST!!
+- Using `Celery` for convert video in background
+- Using `FastApi` for resource management, so it's FAST!!
 - Using S3 Storage [AWS S3, MINIO , ...]
-- Using Rust for streaming from Storage.
+- High Performance streaming, because of using Rust `actix` for streaming.
 - Support AES Encryprion
 - Public and Private streaming
 - Live Streaming
