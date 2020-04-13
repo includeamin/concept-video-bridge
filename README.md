@@ -12,7 +12,11 @@ Core Features are:
 - Using FastApi, so it's FAST!!
 - Using S3 Storage [AWS S3, MINIO , ...]
 - Using Rust for streaming from Storage.
+- Support AES Encryprion
+- Public and Private streaming
+- Live Streaming
+- Dashboard
 
-
-# THIS REPOSITY WILL DEVELOP ASAP
+# **THIS REPOSITY WILL DEVELOP ASAP**
+**contributors are welcome**
 
