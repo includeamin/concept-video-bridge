@@ -19,4 +19,7 @@ Core Features are:
 
 # **THIS REPOSITY WILL DEVELOP ASAP**
 **contributors are welcome**
+contact me :
+- Email: aminjamal10@gmail.com
+- LinkedIn: https://www.linkedin.com/in/includeamin/
 
