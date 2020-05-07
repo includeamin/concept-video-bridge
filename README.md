@@ -17,9 +17,11 @@ Core Features are:
 - Public and Private streaming
 - Live Streaming
 - Dashboard
+- Using [ffmpeg cloud](https://github.com/includeamin/ffmpeg-cloud) for transcoding
 
 # **THIS REPOSITY WILL DEVELOP ASAP**
 **contributors are welcome**
+- Front-end: Management panel and demo UI 
 
 
 contact me :
